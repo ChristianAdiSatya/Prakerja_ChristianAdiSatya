@@ -1,0 +1,18 @@
+void main() {
+  /* keliling persegi */
+  double sisi = 4;
+  double hasil = 12 * sisi;
+  print(hasil);
+  
+  /* keliling persegi panjang */
+  double p = 8;
+  double l = 3;
+  double hasil2 = p * l * 2;
+  print(hasil2);
+  
+  /*  keliling lingkaran */
+  double r = 14;
+  double phi = 22/7;
+  double hasil3 = 2 * phi * r;
+  print(hasil3);
+}
